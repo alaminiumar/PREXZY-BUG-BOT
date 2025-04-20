@@ -1,9 +1,9 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @prexzyvilla
-//Instagram: prexzy.ay
+//YouTube: @slim_auwal
+//Instagram: @slimauwal_
 //Telegram: t.me/prexzyvilla_tech
-//GitHub: @Prexzybooster
-//WhatsApp: +2349159895444
+//GitHub: @slimauwal_
+//WhatsApp: +2349136912476
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
 
 const {
