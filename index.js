@@ -3,7 +3,7 @@
 //Instagram: @slimauwal_
 //Telegram: t.me/prexzyvilla_tech
 //GitHub: @slimauwal_
-//WhatsApp: +2349136912476
+//WhatsApp: +2347051605645
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
 
 const {
