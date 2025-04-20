@@ -4,8 +4,7 @@
 //Telegram: t.me/prexzyvilla_tech
 //GitHub: @slimauwal_
 //WhatsApp: +2347051605645
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
-
+//subscribe to my youtube channel: https://youtube.com/@salim_auwal
 const {
    spawn
 } = require('child_process')
